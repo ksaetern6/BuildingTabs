@@ -1,0 +1,20 @@
+div.nav-tab{
+  background-color: lightyellow;
+  border-style: solid;
+}
+div:link{
+  color: blue;
+}
+div:visited{
+  color: pink;
+}
+div:hover{
+  color: darkblue;
+}
+div:active{
+  color: red;
+}
+a.nounderline{
+  text-decoration: none;
+  color: maroon;
+}
